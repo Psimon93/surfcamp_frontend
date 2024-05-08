@@ -17,6 +17,7 @@
 
   &__form {
     width: 45%;
+    justify-content: center;
 
     & .input {
       width: 100%;
@@ -33,7 +34,7 @@
 
   &__name-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 
     & .input__container {
       width: 48%;
